@@ -1,6 +1,7 @@
 # Llama2-Chess
+
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/azyleee/Llama2-Chess/blob/main/images/llamachess4.jpeg)" />
+  <img src="https://github.com/azyleee/Llama2-Chess/blob/main/images/llamachess4.jpeg" />
 </p>
 
 LLaMA 2 is an open source Large Language Model (LLM) developed by Meta AI. Its special tokens are publically available. This project used these tokens to create a dataset of chess moves using data from professional chess tournaments. 
